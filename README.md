@@ -1,6 +1,4 @@
-# Oniani T, Vinnenberg L, Chaudhary R, Schreiber JA, Riske K, Williams B, Pape H-C, White JA, Junker A, Seebohm G, et al. 
-# Effects of Axonal Demyelination, Inflammatory Cytokines and Divalent Cation Chelators on Thalamic HCN Channels and Oscillatory Bursting. 
-# International Journal of Molecular Sciences. 2022; 23(11):6285. https://doi.org/10.3390/ijms23116285
+# Oniani T, Vinnenberg L, Chaudhary R, Schreiber JA, Riske K, Williams B, Pape H-C, White JA, Junker A, Seebohm G, et al. Effects of Axonal Demyelination, Inflammatory Cytokines and Divalent Cation Chelators on Thalamic HCN Channels and Oscillatory Bursting. International Journal of Molecular Sciences. 2022; 23(11):6285. https://doi.org/10.3390/ijms23116285
 
 ## NEURON Cuprizone Simulation Methods
 
