@@ -6,8 +6,8 @@ Simulations were conducted within the NEURON simulation environment (Hines and C
 and thalamic reticular network model (Destexhe et al 1996). The original model can be downloaded at http://senselab.med.yale.edu/ModelDB/ 
 and accessed using model number 3343. The model simulates delta oscillations by connecting 2 spontaneously pacemaking TC cells and 
 2 thalamic reticular neurons (NRT) via AMPA and GABAA+B synapses. Four Ih parameters were modified based on experimental results: 
-the maximum Ih conductance ((g<sub>hbar ), the voltage of half maximal activation (V<sub>0.5), the slope of the voltage activation curve (k), 
-and the time constant at -130 mV (τ<sub>fast). The percent change in maximum Ih conductance was found by dividing the current density 
+the maximum Ih conductance (_(g<sub>hbar</sub>_), the voltage of half maximal activation (_V<sub>0.5</sub>_), the slope of the voltage activation curve (_k_), 
+and the time constant at -130 mV (_τ<sub>fast</sub>_). The percent change in maximum Ih conductance was found by dividing the current density 
 measured in each cell by the average of the combined control groups. The maximum Ih conductance was normalized to the default conductance 
 in the model (10 μS/cm2). The voltage of half maximal activation was shifted from the default of the model (-75 mV) to match the measured 
 value in each cell. The shift in voltage activation curve was equally applied to the voltage-dependent time constant curve. The voltage dependent 
